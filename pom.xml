@@ -6,7 +6,7 @@
 	<version>1.0.0</version>
 	<name>EMC Locked Chest Finder</name>
 	<url>http://github.com/mangstadt/emc-locked-chest-finder</url>
-	<description>Searches your rupee transaction history for chests that you've locked and unlocked.</description>
+	<description>Searches your EMC rupee transaction history for chests that you've locked and unlocked.</description>
 
 	<properties>
 		<java.version>1.8</java.version>
