@@ -69,7 +69,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>emcchests.EMCLockedChestFinder</mainClass>
+							<mainClass>com.github.mangstadt.lockedChests.EMCLockedChestFinder</mainClass>
 						</manifest>
 					</archive>
 					<descriptorRefs>
